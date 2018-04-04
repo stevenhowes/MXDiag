@@ -1,0 +1,268 @@
+1000,OBD II Monitor Testing Not Completed
+1001,Unable to Achieve Self-Test Function Or SCP Error
+1100,MAF Sensor Circuit Intermittent
+1101,MAF Sensor Circuit Out Of Self-Test Range
+1102,MAF Sensor Signal Inconsistent With TPS
+1103,MAF Sensor Signal Inconsistent With Engine Speed
+1110,MAF Sensor Signal (Dynamic Chamber) Circuit
+1112,MAF Sensor Circuit Intermittent
+1113,MAF Sensor Signal (Dynamic Chamber) Circuit
+1114,MAF Sensor Circuit Low Input
+1116,ECT Sensor Circuit Out Of Self Test Range
+1117,ECT Sensor Signal Intermittent
+1120,TPS Out Of Range Low
+1121,TPS Signal Not Consistent With MAF Signal
+1122,Throttle Position Stuck Closed
+1123,Throttle Position Stuck Open
+1124,TPS Signal Out Of Self Test Range
+1125,TPS Signal Intermittent
+1126,Throttle Position (Narrow Range) Sensor Circuit
+1127,HO2S Bank 1 Sensor 2 Heater Not On During Key On Engine Running Self Test
+1128,HO2S Bank 1 Sensor 1 Signals Swapped In Key On Engine Running Self Test
+1129,Downstream H02S Sensors Swapped
+1130,HO2S Bank 1 Sensor 1 Not Switching (Fuel Control Limit Reached)
+1131,HO2S Bank 1 Sensor 1 Signal Below 0.45v (A/F Ratio Too Lean)
+1132,HO2S Bank 1 Sensor 1 Signal Above 0.45v (A/F Ratio Too Rich)
+1133,Bank 1 Fuel Control Shifted Lean
+1134,Bank 1 Fuel Control Shifted Rich
+1135,HO2S Bank 1 Sensor 1 Heater Circuit Low Input
+1136,HO2S Bank 1 Sensor 1 Heater Circuit High Input
+1137,HO2S Bank 1 Sensor 2 Not Switching (Fuel Control Limit Reached)
+1138,HO2S Bank 1 Sensor 2 Signal Above 0.45v (A/F Ratio Too Rich)
+1141,HO2S Bank 1 Sensor 2 Heater Circuit Low Input
+1142,HO2S Bank 1 Sensor 2 Heater Circuit High Input
+1143,HO2S Bank 1 Sensor 3 Signal Below 0.45v (A/F Ratio Too Lean)
+1144,HO2S Bank 1 Sensor 3 Signal Above 0.45v (A/F Ratio Too Rich)
+1150,HO2S Bank 2 Sensor 1 Not Switching (Fuel Control Limit Reached)
+1151,HO2S Bank 2 Sensor 1 Signal Below 0.45v (A/F Ratio Too Lean)
+1152,HO2S Bank 2 Sensor 1 Signal Above 0.45v (A/F Ratio Too Rich)
+1153,Bank 2 Fuel Control Shifted Lean(FAOSC)
+1154,Bank 2 Fuel Control Shifted Rich (FAOSC)
+1169,HO2S Bank 1 Sensor 1 Circuit Fixed (Bank 1 Sensor 1)
+1170,HO2S Bank 1 Sensor 1 Circuit Fixed (Bank 1 Sensor 1)
+1173,HO2S Bank 2 Sensor 1 Circuit Fixed (Bank 2 Sensor 1)
+1182,Fuel Shut Off Solenoid Circuit
+1189,ump Speed Signal
+1190,Calibration Resistor Out Of Range
+1191,TP (Controlled) Circuit
+1194,ECM, PCM, A/D Converter
+1195,EGR Boost Sensor Circuit
+1196,Ignition Switch Start Circuit
+1197,Mileage Switch Circuit
+1213,Start Injector Circuit
+1221,Traction Control System
+1222,Traction Control Output Circuit
+1226,Control Sleeve Sensor Cicuit
+1235,Fuel Pump Control Circuit
+1236,Fuel Pump Control Out Range
+1248,Turbo Boost Pressure Not Detected
+1250,ressure Regulator Control Solenoid Circuit
+1251,Air Mixture Solenoid Circuit
+1252,ressure Regulator Control Solenoid '2' Circuit
+1260,Anti-Theft System Signal Detected - Engine Disabled
+1270,Engine RPM or Vehicle Speed Limit Reached
+1279,Control Sleeve Sensor Circuit Range/Performance
+1298,Injector Driver Module Failure
+1309,Misfire Detection Monitor
+1312,Injection Pump Timing Actuator Circuit
+1318,Injection Timing Piston Position Sensor Circuit
+1319,Injection Timing Piston Position Sensor Circuit Range/Performance
+1345,No CMP or SGC Signal
+1351,Ignition Diagnostic Monitor Signal Lost To PCM Or Out Of Range
+1352,Ignition Coil 'A' Primary Circuit
+1353,Ignition Coil 'B' Primary Circuit
+1354,Ignition Coil 'C' Primary Circuit
+1358,Ignition Diagnostic Monitor Signal Out Of Self Test Range
+1359,SPOUT Signal Lost To Powertrain Control Module Or Out Of Range
+1360,Ignition Coil 'A' Secondary Circuit
+1361,Ignition Coil 'B' Secondary Circuit
+1362,Ignition Coil 'C' Secondary Circuit
+1364,Ignition Coil Primary Circuit
+1365,Ignition Coil Secondary Circuit
+1382,Camshaft Position Timing Solenoid #1 Circuit
+1387,Camshaft Position Timing Solenoid #2 Circuit
+1390,Octane Adjust Shorting Bar Out or Circuit Open
+1400,DPFE Sensor Circuit Low Input
+1401,DPFE Sensor Circuit High Input
+1402,EGR Valve Position Sensor Circuit
+1405,DPFE Sensor Upstream Hose Off Or Plugged
+1406,DPFE Sensor Downstream Hose Off Or Plugged
+1407,No EGR Flow Detected
+1408,EGR System Flow Out Of Key On Engine Running Self Test Range
+1409,EGR Vacuum Regulator Solenoid Circuit
+1410,EGR Boost Solenoid Valve Stuck
+1412,Exhaust Gas Recirculation Valve Frozen
+1415,Air Pump Circuit
+1416,ort Air Circuit
+1417,ort Air Relief Circuit
+1418,Split Air #1 Circuit
+1419,Split Air #2 Circuit
+1439,Floor Temp Switch Circuit
+1443,EVAP System Purge Flow Fault
+1444,EVAP Purge Flow Sensor Circuit Low Voltage
+1445,EVAP Purge Flow Sensor Circuit High Voltage
+1446,Evaporative Vacuum Solenoid Circuit
+1449,Evaporative Check Solenoid Circuit
+1450,Unable To Bleed Up Fuel Tank Vacuum
+1451,Canister Vent Solenoid Circuit
+1455,Fuel Tank Level Sensor Circuit
+1456,Fuel Tank Temperature Sensor Circuit
+1457,urge Solenoid Control System
+1460,Wide Open Throttle A/C Cut-Off Relay Circuit
+1464,Air Conditioning Control Signal Circuit
+1473,Fan Circuit Open (VLCM)
+1474,Fan Control (Primary Winding) Circuit
+1475,Fan Relay (Low) Circuit
+1476,Fan Relay (High) Circuit
+1477,Additional Fan Relay Circuit
+1479,Fan Control (Condenser Primary) Circuit
+1485,EGR Vacuum Solenoid Circuit
+1486,EGR Vent Solenoid Circuit
+1487,EGR-CHK (Boost) Solenoid Circuit
+1491,Secondary Switch Solenoid Circuit
+1492,APLSOL Solenoid Circuit
+1493,RCNT Solenoid Circuit
+1495,TCSPL Solenoid Circuit
+1496,EGR Valve Motor Coil '1' Open or Shorted
+1497,EGR Valve Motor Coil '2' Open or Shorted
+1498,EGR Valve Motor Coil '3' Open or Shorted
+1499,EGR Valve Motor Coil '4' Open or Shorted
+1500,Vehicle Speed Sensor Intermittent Signal
+1501,Vehicle Speed Sensor Out Of Self Test Range
+1502,Vehicle Speed Sensor Circuit Error
+1504,Idle Air Control Solenoid Circuit Intermittent
+1505,Idle Air Control System At Adaptive Clip
+1506,Idle Air Control System Overspeed Detected
+1507,Idle Air Control System Underspeed Detected
+1508,Bypass Air Solenoid '1' Circuit
+1509,Bypass Air Solenoid '2' Circuit
+1510,Idle Signal Circuit
+1511,Idle Switch (Electric Control Throttle) Circuit
+1512,VTCS Fault
+1515,Electric Current Circuit
+1521,VRIS Solenoid '1' Circuit
+1522,VRIS Solenoid '2 Circuit
+1523,VICS Solenoid Circuit
+1524,Charge Air Cooler Bypass Solenoid Circuit
+1525,ABV Vacuum Solenoid Circuit
+1526,ABV Vent Solenoid Circuit
+1527,Bypass Air Solenoid (Accelerate Warmup) Circuit
+1528,Subsidiary Throttle Valve Solenoid Circuit
+1529,L/C Atmospheric Balance Air Control Valve Circuit
+1540,ABV System Fault
+1562,owertrain Control Module +B Voltage Low
+1566,TCM B+ Voltage Low
+1569,IMRC Circuit Low
+1570,IMRC Circuit High
+1600,Loss Of KAM Power, Circuit Open
+1601,owertrain Control Module Communication Line To TCM Error
+1602,owertrain Control Module Communication Line To TCM Error
+1602,Immobilizer System Communication Error With Powertrain Control Module
+1603,Immobilizer System Fault
+1604,Immobilizer System Fault
+1605,owertrain Control Module Keep Alive Memory Test Error
+1608,owertrain Control Module (ECM CPU) DTC Test Fault
+1609,owertrain Control Module (ECM CPU) Knock Sensor Circuit
+1621,Immobilizer System Fault
+1622,Immobilizer System Fault
+1623,Immobilizer System Fault
+1624,Immobilizer System Fault
+1627,owertrain Control Module (ECM/TCS) Line Communication Error
+1628,owertrain Control Module (ECM/TCS) Any Line Communication Error
+1630,Alternator Regulator #1 Control Circuit
+1631,Generator Output Voltage Signal (No Output)
+1632,Battery Voltage Monitor Circuit
+1633,Battery Overcharge Fault
+1634,Generator Terminal 'B' Circuit Open
+1645,Fuel Pump Resistor Switch Circuit
+1649,Fuel Injection Pump Module
+1650,ower Steering Pressure Switch Out Of Range Fault
+1651,ower Steering Pressure Switch Circuit
+1652,ower Steering Pressure Switch Circuit
+1680,Metering Oil Pump Failure
+1682,Metering Oil Pump Failure
+1683,Metering Oil Pump Temperature Sensor Circuit
+1684,Metering Oil Pump Position Sensor Circuit
+1685,Metering Oil Pump Stepping Motor Cont. Circuit
+1686,Metering Oil Pump Stepping Motor Cont. Circuit
+1687,Metering Oil Pump Stepping Motor Cont. Circuit
+1688,Metering Oil Pump Stepping Motor Cont. Circuit
+1689,Oil Pressure Control Solenoid Circuit
+1690,Wastegate Solenoid Circuit
+1691,Turbo Pressure Control Solenoid Circuit
+1692,Turbo Control Solenoid Circuit
+1693,Turbo Charge Control Circuit
+1694,Turbo Charge Relief Circuit
+1701,Transmission Range Sensor Reverse Engagement Error
+1702,Transmission Range Sensor Circuit Intermittent
+1703,Brake On/Off Switch Out Of Self Test Range
+1705,Transmission Range Sensor Out Of Self Test Range
+1706,High Vehicle Speed Observed In Park
+1708,Clutch Switch Circuit
+1709,Clutch Pedal Position Switch Circuit
+1710,Transmission Control Module Solenoid/Internal Ground Circuit
+1711,Transmission Fluid Temperature Sensor Circuit Out Of Self Test Range
+1713,Transmission Fluid Temperature Sensor Circuit
+1714,Shift Solenoid '1' Mechanical Fault
+1715,Shift Solenoid '2' Mechanical Fault
+1716,Shift Solenoid '3' Mechanical Fault
+1717,Shift Solenoid '4' Mechanical Fault
+1718,Transmission Fluid Temperature Sensor Circuit
+1719,Engine Torque Signal
+1720,Vehicle Speed Sensor '2' Signal Error
+1721,Gear 1 Incorrect Ratio
+1722,Gear 2 Incorrect Ratio
+1723,Gear 3 Incorrect Ratio
+1724,Gear 4 Incorrect Ratio
+1729,Transmission 4x4 Low Switch Error
+1735,First Gear Switch Circuit Failure
+1736,Second Gear Switch Circuit Failure
+1737,Lockup Solenoid
+1738,Shift Time Error
+1739,Slip Solenoid
+1740,Torque Converter Clutch Solenoid Mechanical Fault
+1741,Torque Converter Clutch Control Electrical Fault
+1742,Torque Converter Clutch Solenoid Shorted
+1743,Torque Converter Clutch Failed On - TCIL Is On
+1744,Torque Converter Clutch Solenoid Mechanical Fault
+1745,Line Pressure Solenoid
+1746,Electronic Pressure Control Solenoid Circuit Open
+1747,Electronic Pressure Control Solenoid Circuit
+1748,ressure Control Solenoid 'A'
+1749,Electronic Pressure Control Solenoid Circuit Low
+1751,Transmission Shift Solenoid 'A' Mechanical Fault
+1752,Transmission Shift Solenoid 'A' Circuit Shorted
+1754,Transmission Coast Clutch Solenoid Electrical Fault
+1756,Transmission Shift Solenoid 'B' Mechanical Fault
+1757,Transmission Shift Solenoid 'B' Circuit Shorted
+1759,2-4 Brake Failsafe Valve Malfunction
+1761,Transmission Shift Solenoid '3' Mechanical Fault
+1762,Transmission SS3/SS4/OD Band Fault
+1763,Low And Reverse Brake Pressure Switch Circuit
+1764,Low And Reverse Brake Failsafe Valve Malfunction
+1765,Transmission 3-2 Timing Solenoid Valve
+1767,Torque Converter Clutch Solenoid Circuit
+1770,Clutch Solenoid Circuit
+1771,TPS Circuit Open To Transmission Control Module
+1772,TPS Circuit Shorted To Transmission Control Module
+1775,Torque Down Signal #1 Circuit
+1776,Toqure Down Signal #2 Circuit
+1777,Torque Down Response Signal Circuit
+1780,Transmission Control Switch Circuit
+1780,Overdrive Off Switch Not Cycled During The Self Test
+1781,Transmission 4x4 Low Switch Out Of Range Fault
+1783,Transmission Fluid Temperature High Input
+1788,ressure Control Solenoid 'B' Circuit Open
+1789,ressure Control Solenoid 'B' Circuit Shorted
+1790,TP (Mechanical) Circuit
+1791,TP (Electric) Circuit
+1792,Barometer Pressure Circuit
+1793,Intake Air Volume Circuit
+1794,owertrain Control Module Battery Direct Power Circuit
+1795,Idle Switch Circuit
+1796,Kick Down Switch Circuit
+1797,/N Switch Open Or Short Circuit
+1798,Coolant Temperature Circuit
+1799,Hold Switch Circuit
+1900,Turbine Speed Sensor Circuit Intermittent
+1901,Torque Converter Clutch Circuit Intermittent
