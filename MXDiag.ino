@@ -252,7 +252,7 @@ void diag()
         {
           // Divider for easy debug
           Serial.println(diagstring);
-          dtcoutput = dtcoutput + "P" + diagstring + ":" + identifydtc(diagstring) + "<br/>";
+          dtcoutput = dtcoutput + "<h2>P" + diagstring + "</h2>" + identifydtc(diagstring) + "<br/>";
 
           diagstring = "";
         }
